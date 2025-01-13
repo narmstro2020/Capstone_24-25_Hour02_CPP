@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/neeba/CLionProjects/Block 03
+# Install script for directory: C:/Users/neeba/CLionProjects/Capstone_24-25_Hour02/Block 03/Example Code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/neeba/CLionProjects/Block 03/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/neeba/CLionProjects/Capstone_24-25_Hour02/Block 03/Example Code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
