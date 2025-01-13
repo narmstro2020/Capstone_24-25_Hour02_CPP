@@ -1,3 +1,0 @@
-C:/Users/neeba/CLionProjects/Block 03/cmake-build-debug/CMakeFiles/Block_03.dir
-C:/Users/neeba/CLionProjects/Block 03/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/neeba/CLionProjects/Block 03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
