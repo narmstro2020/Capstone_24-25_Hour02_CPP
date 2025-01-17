@@ -21,4 +21,4 @@
 
 ## Interactive, Ownership, Resonate
 
-- Assignments listed in Canvas under Modules for Unit 01, Section 03
+- Make Sure Raylib Works for the Sample Project
