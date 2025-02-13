@@ -1,0 +1,2 @@
+- Implement a side-scrolling effect where the camera moves continuously to the right.
+- Add multiple objects to create a parallax effect.
